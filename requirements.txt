@@ -1,0 +1,8 @@
+django
+psycopg2
+djangorestframework
+markdown
+django-filter
+#django-storages[azure]
+# work around for https://github.com/urllib3/urllib3/pull/1684
+urllib3==1.25.3
